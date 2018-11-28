@@ -1,2 +1,2 @@
 # LeetCode_mycodes
-+ Description：+LeetCode的解题分享
++ Description：LeetCode的解题分享
